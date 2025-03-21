@@ -62,3 +62,4 @@
 ###
 
 <br clear="both">
+![snake gif](https://github.com/MicaelaNicSil/MicaelaNicSil/blob/output/github-snake-dark.svg)
