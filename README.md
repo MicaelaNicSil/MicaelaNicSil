@@ -62,4 +62,7 @@
 ###
 
 <br clear="both">
+<!-- Snake Animation -->
+<div align="center">
 ![snake gif](https://github.com/MicaelaNicSil/MicaelaNicSil/blob/output/github-snake-dark.svg)
+</div>
