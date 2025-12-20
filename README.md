@@ -1,4 +1,4 @@
-<h2 align="left">💻 Full-Stack Developer | QA Engineer</h2>
+<h2 align="left">💻 Full-Stack Developer </h2>
 
 ###
 
